@@ -1,0 +1,1128 @@
+<REAPER_PROJECT 0.1 "6.78/win64" 1679622406
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 100 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {0585E221-E3D2-444F-A287-7DA87A410B70}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {1C8E8176-DDDE-41A8-A78D-8C9FFE97BD1C}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {0A93DB95-8A0A-4E9A-ACE8-445859874702}
+    NAME Matraces
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0A93DB95-8A0A-4E9A-ACE8-445859874702}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 10.4718
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {24CAE1FE-8CA7-4743-B60E-7FC85608E622}
+      IID 2
+      NAME Matraces.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE295E6B-382B-49E4-83DC-A7A2D97F46B4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
+      >
+    >
+  >
+  <TRACK {5FEFD49F-D2D7-4F92-8A9F-FAA12D33DB10}
+    NAME "Movimiento ropa 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5FEFD49F-D2D7-4F92-8A9F-FAA12D33DB10}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.4982
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {3B1BF55F-ED8F-49EC-B02D-67EC85AA2E10}
+      IID 3
+      NAME "Movimiento ropa 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D325EE87-C341-40BA-B872-98D7E9F6F5A0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Movimiento ropa 2.m4a"
+      >
+    >
+  >
+  <TRACK {3ED7AA20-3B73-4814-805D-9939669C8861}
+    NAME MovimientoRopa
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3ED7AA20-3B73-4814-805D-9939669C8861}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21.7098
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9C810BDC-7D43-4A1D-A3D5-BCABCD687195}
+      IID 4
+      NAME MovimientoRopa.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6FCA1C7-AEC2-4574-929B-CB9E55E0956A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+      >
+    >
+  >
+  <TRACK {D5FD0A3F-8050-466F-8E41-6DE15905CEBA}
+    NAME MRraces
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D5FD0A3F-8050-466F-8E41-6DE15905CEBA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.3646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {8416AC23-68C0-4D07-B9E9-542F080F36E0}
+      IID 5
+      NAME MRraces.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9143629-F2CB-4492-93C3-EF7AD14EB757}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MRraces.m4a"
+      >
+    >
+  >
+  <TRACK {DA3168A3-319F-471F-B0E3-77E1A5256FD4}
+    NAME Pisadas
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DA3168A3-319F-471F-B0E3-77E1A5256FD4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 27.0966
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {211491B2-63C1-45C5-95D5-5262C827DE09}
+      IID 6
+      NAME Pisadas.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E275EEB3-F5BE-470E-820A-99618B3F86A4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Pisadas.m4a"
+      >
+    >
+  >
+  <TRACK {F164B577-EA4B-4817-9FFE-845BE3B2D561}
+    NAME Pisadas2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F164B577-EA4B-4817-9FFE-845BE3B2D561}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 14.5815
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {8590A336-7640-4B46-9094-08181604B31E}
+      IID 7
+      NAME Pisadas2.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F90D596-C9D3-4AA4-9D2C-06F751A3074C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Pisadas2.m4a"
+      >
+    >
+  >
+  <TRACK {E9D38709-8AB8-4230-9DBD-B769F1C74209}
+    NAME "Poner cosita ecosita"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E9D38709-8AB8-4230-9DBD-B769F1C74209}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 29.9525
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {205FD205-F7D6-428C-82E7-4C4E8B0F8D66}
+      IID 8
+      NAME "Poner cosita ecosita.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CECDB899-88A6-4D7B-B931-12C06486B644}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner cosita ecosita.m4a"
+      >
+    >
+  >
+  <TRACK {29256E99-1D59-4B37-86A8-310FB5634604}
+    NAME "Poner Maletin"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {29256E99-1D59-4B37-86A8-310FB5634604}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 23.0565
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {970EB94B-D6AD-49EE-891B-CBFECF37F883}
+      IID 9
+      NAME "Poner Maletin.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {580D5D8B-6F4E-4DE2-AC56-58423FB19BAE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner Maletin.m4a"
+      >
+    >
+  >
+  <TRACK {749F92B5-FE80-42B8-8143-C9AC39C5FD3E}
+    NAME Resistenciahojas
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {749F92B5-FE80-42B8-8143-C9AC39C5FD3E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 22.0813
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {4D50DDF0-E213-4221-86E8-CE68DF94AA59}
+      IID 10
+      NAME Resistenciahojas.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AA2B249-4966-49A6-B447-93CCF4AD7685}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Resistenciahojas.m4a"
+      >
+    >
+  >
+  <TRACK {91B872A3-2F02-4E52-BBF9-A2E11077399F}
+    NAME "Silla moviéndose"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {91B872A3-2F02-4E52-BBF9-A2E11077399F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21.5705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {DE47C98C-FE1F-49A6-8B20-2FF42D9CC7AC}
+      IID 11
+      NAME "Silla moviéndose.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EA475F5-37F3-4932-92C9-7A3131E6791C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
+      >
+    >
+  >
+  <TRACK {494DE241-57E1-408E-9F1D-0BC6D288E4AD}
+    NAME Sonidoextra
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {494DE241-57E1-408E-9F1D-0BC6D288E4AD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.266
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {47467B42-FCB2-4FFF-9B92-338CD9283E6E}
+      IID 12
+      NAME Sonidoextra.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB02AF34-AA62-4FC0-9102-64C5F33009F9}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Sonidoextra.m4a"
+      >
+    >
+  >
+  <TRACK {60265DB2-A6B2-40ED-B1E9-ED5B8FDAA175}
+    NAME Spray
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {60265DB2-A6B2-40ED-B1E9-ED5B8FDAA175}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 18.6681
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {765DE0A1-06F4-48CD-A79C-E2034469AC75}
+      IID 13
+      NAME Spray.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A180D37-4AD7-4A7D-8A79-3CD343E33BE5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Spray.m4a"
+      >
+    >
+  >
+  <TRACK {E17AADD9-1E91-425C-A568-FE04F96DAD5B}
+    NAME "Voz 001"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E17AADD9-1E91-425C-A568-FE04F96DAD5B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21.4775736
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {0486EAEA-CBCA-47D1-8F54-91A900C87A95}
+      IID 14
+      NAME "Voz 001.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {003F6ABA-6BB0-4981-8146-BED7CC715EED}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Voz 001.m4a"
+      >
+    >
+  >
+  <TRACK {6BA2BF66-B183-4926-B7D7-64341528E67F}
+    NAME Chispa
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6BA2BF66-B183-4926-B7D7-64341528E67F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 11.8185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {22109247-D5B9-4F7C-999C-54897B6BCBF7}
+      IID 15
+      NAME Chispa.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5240B4DB-3702-4B94-9151-1FFE80449739}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Chispa.m4a"
+      >
+    >
+  >
+  <TRACK {FF539103-2315-4AF0-AC9E-DF79AFD65B65}
+    NAME "Choque metalico"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FF539103-2315-4AF0-AC9E-DF79AFD65B65}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 17.8786
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {3D4F84D5-007C-49DE-84B8-CE51E88B0108}
+      IID 16
+      NAME "Choque metalico.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB403B7C-8915-4901-A6AD-D13BCA83B3F4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Choque metalico.m4a"
+      >
+    >
+  >
+  <TRACK {9FBF61A0-509A-4D85-9B04-3FB3952502CD}
+    NAME "Despegar cosita"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9FBF61A0-509A-4D85-9B04-3FB3952502CD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 13.2813
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {FE6A9985-660D-45AD-BAF7-A46A4A3AB40A}
+      IID 17
+      NAME "Despegar cosita.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54E83ED4-33E1-49B4-8CAA-73D2BB99E59F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Despegar cosita.m4a"
+      >
+    >
+  >
+  <TRACK {FD4B943D-05DD-4C34-B516-A7C9907D8E49}
+    NAME Despegarcosuta2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FD4B943D-05DD-4C34-B516-A7C9907D8E49}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 18.9467
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {BD429B6D-3D7D-41B6-8811-E382C8C0FE79}
+      IID 18
+      NAME Despegarcosuta2.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F7B495C-A687-4D7B-9590-890FDD525E81}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Despegarcosuta2.m4a"
+      >
+    >
+  >
+  <TRACK {C1DE735D-D236-4780-BEB4-E035FBCFED18}
+    NAME Hojas
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C1DE735D-D236-4780-BEB4-E035FBCFED18}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 15.0691
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {27A9C8CF-4564-45FD-BF15-3CED844C9EE6}
+      IID 19
+      NAME Hojas.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5EA4925-6423-4B47-BFDD-7CBBC8778DE4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Hojas.m4a"
+      >
+    >
+  >
+  <TRACK {337E8427-7F25-4590-A16E-31DDF1368AEB}
+    NAME Maleta3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {337E8427-7F25-4590-A16E-31DDF1368AEB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.5678
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {6D609A5F-0CDA-49E1-923F-55ADBF53DA6C}
+      IID 20
+      NAME Maleta3.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82EC1352-8D00-4883-95BF-23E56AF0D2EB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Maleta3.m4a"
+      >
+    >
+  >
+  <TRACK {EACA73D3-1663-4DCB-803E-EA1786AEA8B9}
+    NAME Maletin
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EACA73D3-1663-4DCB-803E-EA1786AEA8B9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.8728
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9115CADF-2300-4051-9762-33AD898A7888}
+      IID 21
+      NAME Maletin.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61B18EA0-C5A3-49C1-8981-2E0B3D54AAD6}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Maletin.m4a"
+      >
+    >
+  >
+  <TRACK {3DFA5D6D-F05E-4C9A-A7FF-B2351E32433F}
+    NAME Maletin2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3DFA5D6D-F05E-4C9A-A7FF-B2351E32433F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.9393
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {141CD5CA-D4AA-43DA-A9A3-34AAA42D9830}
+      IID 22
+      NAME Maletin2.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A20F8350-4D5D-4955-98D8-535B1C57DC1A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Maletin2.m4a"
+      >
+    >
+  >
+  <TRACK {0178C44D-ED32-4413-BC45-16F3AF740059}
+    NAME Maletin2Chayanne
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0178C44D-ED32-4413-BC45-16F3AF740059}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 11.238
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {0FB4B347-D6FB-4100-BFDB-78D935A0F5E5}
+      IID 23
+      NAME Maletin2Chayanne.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81D33B36-0A54-4E65-A51B-30FA0BEA6D41}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Maletin2Chayanne.m4a"
+      >
+    >
+  >
+>
