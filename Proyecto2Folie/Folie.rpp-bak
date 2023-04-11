@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.78/win64" 1680842453
+<REAPER_PROJECT 0.1 "6.78/win64" 1680843296
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 19
-  ZOOM 38.79619148883944 0 0
-  VZOOMEX 3.875 951
+  CURSOR 22.5
+  ZOOM 30.4078781618751 0 0
+  VZOOMEX 3.875 1333
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 37 41.5
-  SELECTION2 37 41.5
+  SELECTION 35.5 35.5
+  SELECTION2 35.5 35.5
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -1997,7 +1997,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2171,6 +2171,241 @@
       <SOURCE VIDEO
         FLIP 0 1
         FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Cortar hoja papel.m4a"
+      >
+    >
+  >
+  <TRACK {E6E230DD-ABE6-4B17-997B-3F1319FEB7D0}
+    NAME "agarrar tijeras"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E6E230DD-ABE6-4B17-997B-3F1319FEB7D0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 36.28703632288005
+      SNAPOFFS 0
+      LENGTH 0.19420973913071
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.042458 0 1 0 0 0
+      FADEOUT 1 0.046432 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BFFAAF64-FB95-4A8B-9235-E69868706C92}
+      IID 139
+      NAME "Girar metal.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.11322008213067
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B18CA62-2511-4440-BFC2-B70BB2C05224}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Girar metal.m4a"
+      >
+    >
+    <ITEM
+      POSITION 39.08932340946756
+      SNAPOFFS 0
+      LENGTH 0.19661469819321
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.048252 0 2 0 1 1
+      FADEOUT 1 0.007648 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39745FE0-2F0B-4BF1-B6D0-E3FB653F13FD}
+      IID 51
+      NAME Poner.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0.46990607981993
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C8D0814-738B-4EF2-B057-F2F728C291DD}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner.m4a"
+      >
+    >
+  >
+  <TRACK {BAE07722-190C-4666-AA72-B43A40C24831}
+    NAME "Silla moviéndose"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BAE07722-190C-4666-AA72-B43A40C24831}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {3277CA28-156A-455B-91BE-10A848FE9E47}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.43424937126806 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3277CA28-156A-455B-91BE-10A848FE9E47}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 35.79388137664477
+      SNAPOFFS 0
+      LENGTH 1.70611862335523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7DF22E2F-74C9-492C-AE29-E8BD4328D357}
+      IID 141
+      NAME "Silla moviéndose.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29388137664477
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC91B3DD-0596-4B71-A1F7-00F95FA4E1FF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
+      >
+    >
+  >
+  <TRACK {1869C966-ACBB-4947-AAA5-9C4A7D3C7CA6}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1869C966-ACBB-4947-AAA5-9C4A7D3C7CA6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 34.66690085417683
+      SNAPOFFS 0
+      LENGTH 1.0392177691784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.103411 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {11FF5877-D6B5-4339-90D4-1DBD4DB14F26}
+      IID 141
+      NAME "Silla moviéndose.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.9607822308216
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD324B5C-35FE-4118-9A52-D3D37DE5EE3B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
+      >
+    >
+  >
+  <TRACK {345A9337-A50F-4262-9A12-720F1B88F153}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.53212899421893 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {345A9337-A50F-4262-9A12-720F1B88F153}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {00F79A93-55BA-4746-ABC4-CC1085984DD7}
+      IID 141
+      NAME "Silla moviéndose.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.9607822308216
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5681C00F-DA0E-41DF-BE98-1132032072E1}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
       >
     >
   >

@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.78/win64" 1680843296
+<REAPER_PROJECT 0.1 "6.78/win64" 1681257463
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,13 +16,13 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 22.5
-  ZOOM 30.4078781618751 0 0
-  VZOOMEX 3.875 1333
+  CURSOR 23.5
+  ZOOM 26.33249851346283 0 0
+  VZOOMEX 3.875 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 1
+  LOOP 0
   LOOPGRAN 0 4
   RECORD_PATH "" ""
   <RECORD_CFG
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 35.5 35.5
-  SELECTION2 35.5 35.5
+  SELECTION 42.5 0
+  SELECTION2 42.5 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -90,6 +90,7 @@
     DEFSHAPE 1 -1 -1
   >
   MARKER 1 1.48983477778564 Case 0 0 1 R {6FD7F71F-D4EE-4287-8C24-8224334D8380}
+  MARKER 2 2.5 "" 0 0 1 R {4E6E9CB3-2E19-480E-B872-B75BE5202E41}
   <PROJBAY
   >
   <TRACK {D891D55C-FF0B-49F1-8FB6-868854634802}
@@ -228,7 +229,7 @@
       GUID {E275EEB3-F5BE-470E-820A-99618B3F86A4}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\human-footstepsonstairs.wav"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\human-footstepsonstairs.wav"
       >
     >
   >
@@ -300,7 +301,7 @@
       GUID {668BD618-EAF7-4789-9DB5-0C774FD290B8}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\human-footstepsonstairs.wav"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\human-footstepsonstairs.wav"
       >
     >
   >
@@ -316,7 +317,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -363,7 +364,7 @@
       GUID {B62AFC52-AF2D-4326-99E2-CE0F38600B9A}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner Maletin.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Poner Maletin.m4a"
       >
     >
   >
@@ -426,7 +427,7 @@
       GUID {4B4539EF-5743-430E-975E-C005D52096FE}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
   >
@@ -498,7 +499,7 @@
       GUID {4A700182-6BA3-48D7-9699-92E927BB416C}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
     <ITEM
@@ -521,7 +522,7 @@
       GUID {80A2FFD2-7D7F-4709-BADD-4123AD4EF824}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
   >
@@ -584,7 +585,7 @@
       GUID {F845DE49-8D7A-4871-B87C-DB273B79346B}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Maletin2.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Maletin2.m4a"
       >
     >
   >
@@ -611,6 +612,31 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 736 461
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5D55FE0C-9195-499A-95EF-F736701D87F3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7018F591-E9D1-4168-971E-D008412CE02F}
+      WAK 0 0
+    >
     <ITEM
       POSITION 3.5
       SNAPOFFS 0
@@ -631,7 +657,7 @@
       GUID {041759E7-43DD-4235-A988-0534BF1E4C06}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
     <ITEM
@@ -654,7 +680,7 @@
       GUID {CB1A40C2-79E7-4EB9-A1A8-85D9DC606628}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
     <ITEM
@@ -677,7 +703,7 @@
       GUID {AAD96740-EEF9-43F0-819F-CCE19480C8BB}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
     <ITEM
@@ -700,7 +726,7 @@
       GUID {BAB39B1D-E017-4EC0-8771-8457572449F1}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
     <ITEM
@@ -723,7 +749,7 @@
       GUID {400BC28D-6493-4443-9743-C857B4A1807D}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
     <ITEM
@@ -746,7 +772,7 @@
       GUID {A42699A4-8C3B-4753-91B2-E399521798C6}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
   >
@@ -808,7 +834,7 @@
       GUID {DBD448E0-75F9-4788-8831-97968B1BC65D}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
       >
     >
     <ITEM
@@ -831,7 +857,7 @@
       GUID {416FCF0A-B64F-45EC-839D-810108B5E7E5}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
       >
     >
     <ITEM
@@ -854,7 +880,7 @@
       GUID {055A5868-1834-42DF-8E39-CDB5DE409CBF}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\MovimientoRopa.m4a"
       >
     >
   >
@@ -881,6 +907,31 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1060 233 736 461
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAABdIFqS68HFA9ywhgEbi3z8AAAAAAAAAQAEIAAAAAQAAABkHhyak1Y5AmjKSZw1R
+        5j8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CC933199-7A0B-4982-B507-47D31C841A29}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {60EAE90E-EA92-40C2-891C-8BB363C4DE00}
+      WAK 0 0
+    >
     <ITEM
       POSITION 4.06061788813999
       SNAPOFFS 0
@@ -901,7 +952,7 @@
       GUID {D404A3B0-DF47-4226-890D-D4D630482C5F}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
       >
     >
     <ITEM
@@ -924,7 +975,7 @@
       GUID {4B7116D1-3D2F-4DB5-A423-00B8093ABDD1}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
       >
     >
   >
@@ -986,7 +1037,7 @@
       GUID {15954544-8814-4782-B226-137AE70E6241}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Poner.m4a"
       >
     >
     <ITEM
@@ -1009,7 +1060,7 @@
       GUID {9D2001BC-2345-409C-95CE-04397A0D9951}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Poner.m4a"
       >
     >
   >
@@ -1056,7 +1107,7 @@
       GUID {F8FFC13E-2F38-4FFC-B132-75A756E20A3F}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Poner.m4a"
       >
     >
     <ITEM
@@ -1079,7 +1130,7 @@
       GUID {20E5F3E5-2D5F-45F9-B060-FA5CDB5E40E2}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Poner.m4a"
       >
     >
   >
@@ -1116,7 +1167,7 @@
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
         IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
         8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {8B2BC45E-B431-483B-B650-9BB6D6DE5BA7}
@@ -1125,7 +1176,7 @@
       <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
         Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
         AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP8UgED8EVg4/1XgJP2ZmBj+WQws/AAAAPwAAAD8AAIA/AAAAPw==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {05629178-9A99-4E24-972A-412063870F19}
@@ -1151,7 +1202,7 @@
       GUID {7558FCEC-77BE-4A02-8DA2-BE6E31B5A7D9}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Poner.m4a"
       >
     >
   >
@@ -1187,7 +1238,7 @@
       <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
         Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
         AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP+XQ4j6HFtk+AAAAPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {40078E5F-BC5A-427E-A9BC-875F73539065}
@@ -1213,7 +1264,7 @@
       GUID {C00007DB-1F48-41BE-B796-D64DCC7EDCA7}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Poner.m4a"
       >
     >
   >
@@ -1260,7 +1311,7 @@
       GUID {CD154915-27F1-437C-B5B6-17471D7982FD}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Resistenciahojas.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Resistenciahojas.m4a"
       >
     >
   >
@@ -1296,7 +1347,7 @@
       <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
         Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
         AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP57vBz9vEgM/ppsEPwAAAD+yne8+sp3vPo/C9T4AAIA/AAAAPw==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {2029B143-540D-44C9-83BF-E31CAB91BC0C}
@@ -1306,7 +1357,7 @@
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
         IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAABQhn1dSYGtAc3jBAVBG3D8AAAAAAAAAQAEIAAAAAQAAAI+2/oUnUotAci1bq+1O
         2j8AAAAAAAAAQAEBAAAAAQAAAPcbrqRiybNAL6UZjaPc4j8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {50FD5426-8439-4C28-8E7D-015815D6785C}
@@ -1332,7 +1383,7 @@
       GUID {B60B2A19-83CB-47F4-9EB9-F16582EF8908}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Resistenciahojas.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Resistenciahojas.m4a"
       >
     >
   >
@@ -1379,7 +1430,7 @@
       GUID {9EDBDF52-6EEB-4719-A58B-7CDC490E6F7F}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Ponerenvidrio.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Ponerenvidrio.m4a"
       >
     >
   >
@@ -1426,7 +1477,7 @@
       GUID {4BDB2947-27AD-4411-95F7-AA380F8E8026}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Arrastrar vidrio.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Arrastrar vidrio.m4a"
       >
     >
   >
@@ -1473,7 +1524,7 @@
       GUID {AC7EB32A-B9AA-4982-ABFA-BAEB30AC970F}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Girar metal.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Girar metal.m4a"
       >
     >
   >
@@ -1520,7 +1571,7 @@
       GUID {3A4E0557-AC64-4F65-812A-538185DE8A47}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Girar metal.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Girar metal.m4a"
       >
     >
     <ITEM
@@ -1543,7 +1594,7 @@
       GUID {98DEA500-F958-4290-ACDD-C31BA1422C17}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Girar metal.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Girar metal.m4a"
       >
     >
   >
@@ -1590,7 +1641,7 @@
       GUID {760301B3-A08C-4FE9-90CB-5CCAAE62943F}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Forcejar.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Forcejar.m4a"
       >
     >
   >
@@ -1627,7 +1678,7 @@
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
         IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAMDJoVYCrnFARqYNIg/85z8AAAAAAAAAQAEIAAAAAQAAAIbAv617DoxAKz7pdwmv
         2T8AAAAAAAAAQAEBAAAAAQAAAHzx0HW+B7NAdCddlkAx1T8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {9346DDEE-3AA0-4EA6-B45E-3E24A42D31FF}
@@ -1636,7 +1687,7 @@
       <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
         Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
         AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAD8AAAA/f2r8PiGw8j5t5/s+w/XoPlK43j4AAIA/AAAAPw==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {69F292B9-8590-4E70-83F9-2A7A2675BFEE}
@@ -1662,7 +1713,7 @@
       GUID {FA671E6A-1298-46D5-A1F6-4F0536DBCE3A}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Explota.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Explota.m4a"
       >
     >
   >
@@ -1698,7 +1749,7 @@
       <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
         Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
         AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPwRWDj8AAAA//KkRPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {9B74E62E-1731-4213-8042-F4301C2BFF52}
@@ -1724,7 +1775,7 @@
       GUID {7583327A-3EB3-4763-B1E3-D511E622A030}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
       >
     >
     <ITEM
@@ -1747,7 +1798,7 @@
       GUID {9D9D5F3F-9BB8-46C9-BCD5-87AA72DFE3C5}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Matraces.m4a"
       >
     >
   >
@@ -1794,7 +1845,7 @@
       GUID {78C8B03C-000C-472B-A2D2-4BA1FD9C0BC4}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Chispa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Chispa.m4a"
       >
     >
     <ITEM
@@ -1817,7 +1868,7 @@
       GUID {B99C4657-0023-4DC8-B6CB-C209A9DBC849}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Chispa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Chispa.m4a"
       >
     >
     <ITEM
@@ -1840,7 +1891,7 @@
       GUID {0C13BC48-7A8D-43B2-BCA6-14AC348AA6DE}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Chispa.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Chispa.m4a"
       >
     >
   >
@@ -1887,7 +1938,7 @@
       GUID {43AB21F6-54A9-46BD-99BD-E128568B9397}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Spray.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Spray.m4a"
       >
     >
   >
@@ -1934,7 +1985,7 @@
       GUID {47D0D3D6-F0C2-4565-87C2-D777FD9B82B4}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Agua 2.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Agua 2.m4a"
       >
     >
   >
@@ -1981,7 +2032,7 @@
       GUID {1D6E0ED1-6DC2-4646-8F5F-323CDD2EC5C4}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Agua 2.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Agua 2.m4a"
       >
     >
   >
@@ -2017,7 +2068,7 @@
       <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
         Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
         AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAD9Eiww/ZmYGP83MDD/VeAk/AAAAPwAAAD8AAIA/AAAAPw==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {FFC96A21-E1DB-4EAD-801B-AD1F81B84554}
@@ -2027,7 +2078,7 @@
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
         IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJACh5TLxf64T8AAAAAAAAAQAEIAAAAAQAAANtJ749s1pJA+SwhgEbi
         3z8AAAAAAAAAQAEBAAAAAQAAAPpwOsc9H7dASRPr3isi4T8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {50B7AE4D-1289-4706-AD47-B226EF0757DA}
@@ -2053,7 +2104,7 @@
       GUID {E17E5E2F-45CB-4598-98E2-291C782C6361}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Hoja papel.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Hoja papel.m4a"
       >
     >
   >
@@ -2100,7 +2151,7 @@
       GUID {35AF1044-9845-473D-982F-DA58F5F6E21E}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Hoja papel.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Hoja papel.m4a"
       >
     >
   >
@@ -2147,7 +2198,7 @@
       GUID {4DF823BC-D86C-4B08-8663-5E08D78E10DC}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Cortar hoja papel.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Cortar hoja papel.m4a"
       >
     >
     <ITEM
@@ -2170,7 +2221,7 @@
       GUID {30EA102A-E8DA-4C22-8F79-DA66DD9AD27C}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Cortar hoja papel.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Cortar hoja papel.m4a"
       >
     >
   >
@@ -2217,7 +2268,7 @@
       GUID {2B18CA62-2511-4440-BFC2-B70BB2C05224}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Girar metal.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Girar metal.m4a"
       >
     >
     <ITEM
@@ -2240,7 +2291,7 @@
       GUID {0C8D0814-738B-4EF2-B057-F2F728C291DD}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Poner.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Poner.m4a"
       >
     >
   >
@@ -2311,7 +2362,7 @@
       GUID {BC91B3DD-0596-4B71-A1F7-00F95FA4E1FF}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
       >
     >
   >
@@ -2327,7 +2378,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2358,7 +2409,7 @@
       GUID {DD324B5C-35FE-4118-9A52-D3D37DE5EE3B}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
       >
     >
   >
@@ -2405,7 +2456,53 @@
       GUID {5681C00F-DA0E-41DF-BE98-1132032072E1}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "D:\Proyectos\Escuela\ProduccionMusical\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\Foli\Silla moviéndose.m4a"
+      >
+    >
+  >
+  <TRACK {763879CD-3BC6-4C97-8C9C-3D1F67026B07}
+    NAME roomTone
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.94695061717501 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {763879CD-3BC6-4C97-8C9C-3D1F67026B07}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 42
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECA9A559-8C95-43C4-BD40-94009543DDB0}
+      IID 165
+      NAME 683516__klankbeeld__basement-room-tone-traffic-1636-220811_0491.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E4509F8-E5AC-40EA-94E3-64E197C7E629}
+      <SOURCE WAVE
+        FILE "C:\Users\Rojo18\Documents\dino\ProduccionMusical\Sonidos\683516__klankbeeld__basement-room-tone-traffic-1636-220811_0491.wav"
       >
     >
   >
