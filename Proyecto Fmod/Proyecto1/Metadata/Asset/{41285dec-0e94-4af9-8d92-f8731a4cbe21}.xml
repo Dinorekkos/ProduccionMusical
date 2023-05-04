@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{41285dec-0e94-4af9-8d92-f8731a4cbe21}">
+		<property name="assetPath">
+			<value>Pasos_Grass/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2cc7ec66-e5ca-4722-adce-f2abe02e2ea3}</destination>
+		</relationship>
+	</object>
+</objects>

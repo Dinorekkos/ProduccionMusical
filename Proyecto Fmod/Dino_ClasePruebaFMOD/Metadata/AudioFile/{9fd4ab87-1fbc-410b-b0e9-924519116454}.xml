@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9fd4ab87-1fbc-410b-b0e9-924519116454}">
+		<property name="assetPath">
+			<value>Ambience/truenos y estruendo 2.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>14.863673469387756</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2cc7ec66-e5ca-4722-adce-f2abe02e2ea3}</destination>
+		</relationship>
+	</object>
+</objects>
